@@ -1,0 +1,1 @@
+Developed a GUI application that has various functionalities typically found in banks such as creating or updating accounts , depositing or withdrawing money ,and to transfer funds between accounts ,or changing password for the account . it has full database system.
